@@ -102,4 +102,4 @@ Ideas: batch CLI mode, log-scale plots, support for additional file formats.
 
 ## 📄 License
 
-Released under the MIT License. See `LICENSE` for details.
+Released under the Apache License 2.0. See `LICENSE` for details.
